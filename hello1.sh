@@ -1,0 +1,4 @@
+whoami
+pwd
+date
+cal

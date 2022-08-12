@@ -1,0 +1,11 @@
+This is goodman
+4575 these are the numbers of your weeks pay in USD
+the names of the users are:
+Patricia
+Rejeeve
+Princewill
+
+ls
+
+
+clear

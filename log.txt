@@ -1,0 +1,5 @@
+what is 6 + 5 :11
+what is 6 - 5 :1
+what is 10 × 2 : 20
+what is todays date:Sun Jul 31 18:23:57 EDT 2022
+Sun Jul 31 18:23:57 EDT 2022

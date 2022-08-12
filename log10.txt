@@ -1,0 +1,6 @@
+what is 6 + 5 :11
+what is 6 - 5 :1
+what is 10 × 2 : 20
+what is todays date:Thu Aug 4 14:21:38 EDT 2022
+Thu Aug  4 14:21:38 EDT 2022
+test.sh: line 7: Date: command not found
