@@ -1393,3 +1393,24 @@ git config
 git diff
 git commit -m
 git commit -l
+vi acada.txt
+git status
+vi devops.txt
+ls
+git status
+git add
+git add .
+git status
+git commit --all
+git commit -m "add 2 new lines"
+git status
+git log
+clear
+git --help
+git log --oneline
+git commit --amend -m "add 2 new files"
+git status
+git commit --amend -"add 2 new files"
+git commit --amend -m "add 2 new files"
+git log --oneline
+clear
