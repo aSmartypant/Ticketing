@@ -1414,3 +1414,22 @@ git commit --amend -"add 2 new files"
 git commit --amend -m "add 2 new files"
 git log --oneline
 clear
+git checkout -b new_feature
+git branch
+git switch master
+git switch -c bug_fixes
+git branch -m onboarding
+git branch
+git branch master
+git switch master
+git remote add origin https://github.com/aSmartypant/Ticketing.git
+git branch -M main
+git push -u origin main
+git fetch
+git merge origin/main
+git stash
+git merge origin/main
+git log --oneline
+cat gitfile.txt
+ls
+git branch
