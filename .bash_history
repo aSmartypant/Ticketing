@@ -1433,3 +1433,19 @@ git log --oneline
 cat gitfile.txt
 ls
 git branch
+echo "We are adding this line from CLI after our first git push/pull" >> gitfile2.txt
+cat gitfile2.txt
+git commit -am "add first line"
+git status
+git add gitfile2.txt
+git status
+git push
+git add gitfile2.txt
+cat gitfile2.txt
+git status
+git commit
+git file2.txt
+git status
+git add
+git add .
+add a new line
